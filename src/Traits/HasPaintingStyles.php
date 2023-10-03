@@ -1,6 +1,6 @@
 <?php
 
-namespace INuryyev\SdReplicateClient\Traits;
+namespace INuryyev\SDReplicateClient\Traits;
 
 trait HasPaintingStyles
 {
